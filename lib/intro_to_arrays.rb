@@ -28,5 +28,6 @@ def last_element_with_array_methods(array)
   return array.last
 end
 
-#   returns the first element in the arra
-# y, without referencing the index number of that element
+def length_of_array(array)
+  return array.length 
+end

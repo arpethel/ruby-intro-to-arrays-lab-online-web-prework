@@ -17,5 +17,5 @@ def third_element (array)
 end
 
 def last_element(array)
-  return array.last 
+  return array.last
 end

@@ -17,13 +17,16 @@ def third_element (array)
 end
 
 def last_element(array)
-  return array.last
+  return array.[-1]
 end
 
 def first_element_with_array_methods (array)
   return array.first
 end
 
+def last_element_with_array_methods
+  return array.last
+end
 
 #   returns the first element in the arra
 # y, without referencing the index number of that element
